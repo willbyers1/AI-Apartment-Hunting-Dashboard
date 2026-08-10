@@ -1,0 +1,6 @@
+{
+  "name": "AI Apartment Hunting Dashboard",
+  "description": "Find, compare, and AI-evaluate apartment listings with compatibility scoring, commute times, and hidden red flag audits.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
